@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ScrivenerProject Identifier="2490F5C8-9C1B-4A2E-BF99-0FF5D07D27D4" Version="2.0" Creator="SCRMAC-3.1.5-12258" Device="Abigails-MacBook-Pro" Author="Abigail Yaffe" Modified="2020-11-05 00:26:24 -0500" ModID="ECEA16F8-E403-49CC-BEAA-8F29D73D0938">
+    <Binder>
+        <BinderItem UUID="D424C4D1-2152-42EF-B7D4-0AE593FC6690" Type="DraftFolder" Created="2020-04-26 21:14:24 -0400" Modified="2020-04-26 21:14:24 -0400">
+            <Title>Draft</Title>
+            <CorkboardAndOutliner>
+                <SelectedSubdocumentUUIDs>3D456DA5-9B65-4F4F-A99B-8563BD7EC63D</SelectedSubdocumentUUIDs>
+            </CorkboardAndOutliner>
+            <Children>
+                <BinderItem UUID="D31EA933-8330-4E3A-B033-D0A37A73E151" Type="Folder" Created="2020-04-26 21:15:13 -0400" Modified="2020-04-26 21:15:27 -0400">
+                    <Title>Scenes</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem UUID="3D456DA5-9B65-4F4F-A99B-8563BD7EC63D" Type="Text" Created="2020-04-26 21:14:24 -0400" Modified="2020-04-27 22:42:18 -0400">
+                            <Title>Yukari's Bedroom</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>308,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="73675B39-C149-42E7-9672-49E061528858" Type="Text" Created="2020-04-26 21:14:24 -0400" Modified="2020-04-27 22:42:18 -0400">
+                            <Title>Yukari and Mitsuru run in coffeeshop</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="7EC366EA-743D-4530-BA92-562430A4CA3D" Type="Text" Created="2020-04-26 21:18:02 -0400" Modified="2020-04-29 00:42:43 -0400">
+                            <Title>Yukari and Mitsuru see a movie together at Mitsuru's apartment</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,5552</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="7C49AA62-3E79-49CD-856F-E142AF760455" Type="Text" Created="2020-04-26 21:18:32 -0400" Modified="2020-04-26 22:12:52 -0400">
+                            <Title>The two text during Yukari's class</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,4989</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="D12D9DC1-DFD5-4B07-98E3-0433B6D647C2" Type="Text" Created="2020-04-26 21:18:44 -0400" Modified="2020-05-07 02:07:51 -0400">
+                            <Title>Mitsuru Shows up on the set of Featherman</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,2965</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="CB001EC0-49D2-4C43-928A-A9C17803C356" Type="Text" Created="2020-04-26 21:19:52 -0400" Modified="2020-05-02 02:45:49 -0400">
+                            <Title>Flashback to the love room while Yukari is home alone</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="73328F86-EFC1-4F5E-8E3E-251BE80BFF54" Type="Text" Created="2020-04-26 21:20:32 -0400" Modified="2020-04-26 21:26:23 -0400">
+                            <Title>The two get lunch and talk about their problems, deeply</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="B664B38A-396D-450D-9808-EAB0ECF5A6AE" Type="Text" Created="2020-04-26 21:22:31 -0400" Modified="2020-04-26 23:01:00 -0400">
+                            <Title>The two go to a festival together</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="045B4C5B-6EEC-4B15-98F2-7C020B649366" Type="Text" Created="2020-04-26 21:33:01 -0400" Modified="2020-04-26 21:55:30 -0400">
+                            <Title>the two go to the top of a hill and talk at night</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="FCC959E0-F3AE-4243-B6A5-C2D046A10DE8" Type="Text" Created="2020-04-26 21:56:44 -0400" Modified="2020-04-27 22:38:52 -0400">
+                            <Title>mitsuru wakes up on her couch, yukari in her bed, they make cute breakfast together</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="BCFE1CE3-46E5-43B3-9F48-AF49F94E8D77" Type="Text" Created="2020-04-26 22:59:55 -0400" Modified="2020-04-26 23:01:00 -0400">
+                            <Title>Mitsuru alone in her kitchen freaking out</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="F0FC6C08-70EF-48A4-ACAB-D567703188AE" Type="Text" Created="2020-04-27 22:38:50 -0400" Modified="2020-04-27 22:40:58 -0400">
+                            <Title>the two go to the beach</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="0528E23F-7EBC-4562-93D6-9482344A558B" Type="Text" Created="2020-05-07 23:57:37 -0400" Modified="2020-11-05 00:26:24 -0500">
+                            <Title>The Drive Back Home</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>8435,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="49B75F4A-E7BC-4CC9-8730-5CB04B0B11BC" Type="Text" Created="2020-05-07 23:58:09 -0400" Modified="2020-05-07 23:59:00 -0400">
+                            <Title>Class Again</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem UUID="9292222C-3CC2-4A3F-B738-E04B1E4FC8D9" Type="ResearchFolder" Created="2020-04-26 21:14:24 -0400" Modified="2020-04-26 21:14:24 -0400">
+            <Title>Research</Title>
+        </BinderItem>
+        <BinderItem UUID="ECFC0A11-8945-406E-B7F0-8C2A9669D361" Type="Folder" Created="2020-04-29 14:52:43 -0400" Modified="2020-04-29 14:52:43 -0400">
+            <Title>Conflicts</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+                <IconFileName>Warning</IconFileName>
+            </MetaData>
+            <TextSettings>
+                <TextSelection>0,0</TextSelection>
+            </TextSettings>
+            <CorkboardAndOutliner>
+                <SelectedSubdocumentUUIDs>33F2BBAC-12AC-41BD-A52C-FD8311B0A296</SelectedSubdocumentUUIDs>
+            </CorkboardAndOutliner>
+            <Children>
+                <BinderItem UUID="D9A8740E-486B-4390-999B-40498BD429DC" Type="Folder" Created="2020-06-05 21:59:53 -0400" Modified="2020-06-05 21:59:53 -0400">
+                    <Title>6/5/20, 9:59 PM</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem UUID="D463E003-EE02-40FF-8A0E-670072A0E339" Type="Text" Created="2020-05-07 23:57:37 -0400" Modified="2020-05-13 21:03:24 -0400">
+                            <Title>The Drive Back Home (Conflicted Copy)</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>308,0</TextSelection>
+                            </TextSettings>
+                            <Bookmarks>
+                                <Bookmark BinderUUID="0528E23F-7EBC-4562-93D6-9482344A558B"/>
+                            </Bookmarks>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem UUID="33F2BBAC-12AC-41BD-A52C-FD8311B0A296" Type="Folder" Created="2020-04-29 14:52:43 -0400" Modified="2020-04-29 14:52:43 -0400">
+                    <Title>4/29/20, 2:52 PM</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem UUID="6E054118-7901-4B35-ACBE-7C44F7C79172" Type="Text" Created="2020-04-26 21:18:02 -0400" Modified="2020-04-27 22:48:39 -0400">
+                            <Title>Yukari and Mitsuru see a movie together at Mitsuru's apartment (Conflicted Copy)</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>504,0</TextSelection>
+                            </TextSettings>
+                            <Bookmarks>
+                                <Bookmark BinderUUID="7EC366EA-743D-4530-BA92-562430A4CA3D"/>
+                            </Bookmarks>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem UUID="2F404679-A24B-41E1-B739-77DE2709E854" Type="TrashFolder" Created="2020-04-26 21:14:24 -0400" Modified="2020-04-26 21:14:24 -0400">
+            <Title>Trash</Title>
+        </BinderItem>
+    </Binder>
+    <Collections>
+        <Collection Type="Binder" ID="62277E0B-362F-485A-A312-A06913906B22" Color="0.150563 0.150563 0.150563">
+            <Title>Binder</Title>
+        </Collection>
+        <Collection Type="RecentSearch" ID="701C868F-5733-4A8D-9F59-8D24F92232C5" Color="0.190667 0.172702 0.216529">
+            <Title>Search Results</Title>
+        </Collection>
+        <Collection Type="Arbitrary" ID="19D3155B-D020-4D97-838C-3A1F396DCFCA" Color="0.992 0.973 0.769">
+            <Title>Synced Documents</Title>
+        </Collection>
+    </Collections>
+    <SectionTypes>
+        <TypeDefinitions>
+            <Type ID="0ED0C9E8-7EFC-40F1-A42D-CAB1853C2180">Heading</Type>
+            <Type ID="7EB57F32-9661-498D-B61B-D176BC8C2DF5">Sub-Heading</Type>
+            <Type ID="DDD631D7-980F-4A23-AB07-D98870214B8C">Section</Type>
+        </TypeDefinitions>
+        <LevelTypes>
+            <Folders>
+                <Type>0ED0C9E8-7EFC-40F1-A42D-CAB1853C2180</Type>
+            </Folders>
+            <Containers>
+                <Type>DDD631D7-980F-4A23-AB07-D98870214B8C</Type>
+            </Containers>
+            <Files>
+                <Type>DDD631D7-980F-4A23-AB07-D98870214B8C</Type>
+            </Files>
+        </LevelTypes>
+    </SectionTypes>
+    <LabelSettings>
+        <Title>Label</Title>
+        <DefaultLabelID>-1</DefaultLabelID>
+        <Labels>
+            <Label ID="-1">No Label</Label>
+            <Label ID="0" Color="0.993495 0.701207 0.732587">Red</Label>
+            <Label ID="1" Color="0.995418 0.790946 0.652385">Orange</Label>
+            <Label ID="2" Color="0.997722 0.89273 0.652569">Yellow</Label>
+            <Label ID="3" Color="0.715855 0.948712 0.697692">Green</Label>
+            <Label ID="4" Color="0.702319 0.888276 0.974252">Blue</Label>
+            <Label ID="5" Color="0.957566 0.766747 0.999616">Purple</Label>
+        </Labels>
+    </LabelSettings>
+    <StatusSettings>
+        <Title>Status</Title>
+        <DefaultStatusID>-1</DefaultStatusID>
+        <StatusItems>
+            <Status ID="-1">No Status</Status>
+            <Status ID="0">To Do</Status>
+            <Status ID="1">In Progress</Status>
+            <Status ID="2">First Draft</Status>
+            <Status ID="3">Revised Draft</Status>
+            <Status ID="4">Final Draft</Status>
+            <Status ID="5">Done</Status>
+        </StatusItems>
+    </StatusSettings>
+    <ProjectTargets Notify="No">
+        <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2020-04-26 21:14:23 -0400" IgnoreDeadline="Yes">0</DraftTarget>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" NextResetDate="2020-11-06 00:00:00 -0500" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
+        <PreviousSession Words="108" Characters="579" Date="2020-11-05 00:01:06 -0500"/>
+    </ProjectTargets>
+    <RecentWritingHistory Date="2020-11-05 00:00:00 -0500">
+        <DraftWordCount>108</DraftWordCount>
+        <DraftCharCount>579</DraftCharCount>
+        <OtherWordCount>0</OtherWordCount>
+        <OtherCharCount>0</OtherCharCount>
+    </RecentWritingHistory>
+    <PrintSettings PaperSize="611.999993,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"/>
+</ScrivenerProject>
